@@ -1,0 +1,38 @@
+
+#hero{
+    background-image: url(" https://www.thegoan.net/uploads/news/big_96721_HEATWAVES-OCEAN.jpg");
+  background-size: cover;
+    height: 1000px;
+    padding:10px 0;
+    
+}
+#hero-content{
+    background-color: black;
+    align-items:center;
+   width: 800px;
+    padding:50px 0;
+    color: azure;
+    text-align: center;
+    margin:0px auto;
+    position: relative;
+    top: 200px;
+}
+#hero-content a{
+   color: rgb(12, 12, 12);
+   background-color: yellowgreen;
+   font-size: 24px;
+   padding: 12px 24px;
+}
+#highlights{
+   padding: 20px;
+   background: linear-gradient(0deg,rgb(227,255,257),rgb(68, 255, 140));
+
+}
+#destinations{
+  display: flex;
+  width: 90%;
+  margin: auto;
+  justify-content: space-between;
+}
+
+
